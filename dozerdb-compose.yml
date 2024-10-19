@@ -1,0 +1,20 @@
+# version: '3.8'
+
+# services:
+#   neo4j:
+#     image: graphstack/dozerdb:5.20.0.0-alpha.1
+#     ports:
+#       - "7474:7474"
+#       - "7687:7687"
+#     volumes:
+#       - ./data:/data
+#       - ./logs:/logs
+#       - ./import:/var/lib/neo4j/import
+#       - ./plugins:/plugins
+#     environment:
+#       NEO4J_AUTH: neo4j/password
+#       NEO4J_PLUGINS: '["apoc"]'
+#       NEO4J_apoc_export_file_enabled: 'true'
+#       NEO4J_apoc_import_file_enabled: 'true'
+#       NEO4J_dbms_security_procedures_unrestricted: '*'
+#       SERVER.DEFAULT_LISTEN_ADDRESS: 0.0.0.0

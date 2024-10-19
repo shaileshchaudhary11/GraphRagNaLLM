@@ -1,0 +1,21 @@
+id,name,department,salary,city
+1,Alice,Engineering,100000,New York
+2,Bob,Marketing,80000,San Francisco
+3,Charlie,Engineering,95000,New York
+4,David,HR,70000,Los Angeles
+5,Eve,Engineering,105000,New York
+6,Frank,Marketing,75000,San Francisco
+7,Grace,HR,72000,Los Angeles
+8,Hank,Engineering,99000,New York
+9,Ivy,Engineering,97000,New York
+10,Jack,Marketing,78000,San Francisco
+11,Kate,Engineering,94000,New York
+12,Liam,HR,73000,Los Angeles
+13,Mike,Engineering,102000,New York
+14,Nina,Marketing,76000,San Francisco
+15,Oscar,HR,71000,Los Angeles
+16,Paul,Engineering,101000,New York
+17,Quinn,Marketing,79000,San Francisco
+18,Rachel,Engineering,98000,New York
+19,Steve,HR,74000,Los Angeles
+20,Tina,Engineering,103000,New York

@@ -1,0 +1,4 @@
+start_id,end_id,type
+1,2,FRIENDS
+2,3,COLLEAGUES
+1,3,FAMILY

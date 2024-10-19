@@ -1,0 +1,55 @@
+2024-07-09 08:37:58.179+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2024-07-09 08:37:58.183+0000 WARN  Use of deprecated setting 'dbms.connector.https.advertised_address'. It is replaced by 'server.https.advertised_address'.
+2024-07-09 08:37:58.183+0000 WARN  Use of deprecated setting 'dbms.connector.http.advertised_address'. It is replaced by 'server.http.advertised_address'.
+2024-07-09 08:37:58.184+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.advertised_address'. It is replaced by 'server.bolt.advertised_address'.
+2024-07-09 08:37:58.185+0000 INFO  Starting...
+2024-07-09 08:37:58.872+0000 INFO  This instance is ServerId{c5bef57f} (c5bef57f-7a9b-47da-bcf8-cdae4b5456c3)
+2024-07-09 08:38:00.066+0000 INFO  ======== Neo4j 5.21.0 ========
+2024-07-09 08:38:03.468+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-07-09 08:38:03.505+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2024-07-09 08:38:04.008+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2024-07-09 08:38:04.009+0000 INFO  Remote interface available at http://localhost:7474/
+2024-07-09 08:38:04.011+0000 INFO  id: B4CB465DBA018414344C609E418F2940CA28011EF3CDC30873AF9232C046E7CC
+2024-07-09 08:38:04.012+0000 INFO  name: system
+2024-07-09 08:38:04.012+0000 INFO  creationDate: 2024-07-09T08:38:01.208Z
+2024-07-09 08:38:04.012+0000 INFO  Started.
+2024-07-09 08:41:54.052+0000 INFO  Neo4j Server shutdown initiated by request
+2024-07-09 08:41:54.053+0000 INFO  Stopping...
+2024-07-09 08:42:15.592+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2024-07-09 08:42:15.596+0000 WARN  Use of deprecated setting 'dbms.connector.https.advertised_address'. It is replaced by 'server.https.advertised_address'.
+2024-07-09 08:42:15.596+0000 WARN  Use of deprecated setting 'dbms.connector.http.advertised_address'. It is replaced by 'server.http.advertised_address'.
+2024-07-09 08:42:15.596+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.advertised_address'. It is replaced by 'server.bolt.advertised_address'.
+2024-07-09 08:42:15.597+0000 INFO  Starting...
+2024-07-09 08:42:16.365+0000 INFO  This instance is ServerId{c5bef57f} (c5bef57f-7a9b-47da-bcf8-cdae4b5456c3)
+2024-07-09 08:42:17.270+0000 INFO  ======== Neo4j 5.21.0 ========
+2024-07-09 08:42:19.482+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-07-09 08:42:19.517+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2024-07-09 08:42:20.016+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2024-07-09 08:42:20.017+0000 INFO  Remote interface available at http://localhost:7474/
+2024-07-09 08:42:20.020+0000 INFO  id: B4CB465DBA018414344C609E418F2940CA28011EF3CDC30873AF9232C046E7CC
+2024-07-09 08:42:20.020+0000 INFO  name: system
+2024-07-09 08:42:20.021+0000 INFO  creationDate: 2024-07-09T08:38:01.208Z
+2024-07-09 08:42:20.021+0000 INFO  Started.
+2024-07-12 04:50:22.497+0000 ERROR Increase in network aborts detected (more than 2 network related connection aborts over a period of 600000 ms) - This may indicate an issue with the network environment or an overload condition
+2024-07-12 05:27:41.527+0000 INFO  Neo4j Server shutdown initiated by request
+2024-07-12 05:27:41.527+0000 INFO  Stopping...
+2024-07-12 05:27:47.191+0000 INFO  Stopped.
+2024-07-13 07:16:48.720+0000 INFO  Logging config in use: Embedded default config 'default-user-logs.xml'
+2024-07-13 07:16:48.726+0000 WARN  Use of deprecated setting 'dbms.connector.https.advertised_address'. It is replaced by 'server.https.advertised_address'.
+2024-07-13 07:16:48.727+0000 WARN  Use of deprecated setting 'dbms.connector.http.advertised_address'. It is replaced by 'server.http.advertised_address'.
+2024-07-13 07:16:48.727+0000 WARN  Use of deprecated setting 'dbms.connector.bolt.advertised_address'. It is replaced by 'server.bolt.advertised_address'.
+2024-07-13 07:16:48.729+0000 INFO  Starting...
+2024-07-13 07:16:49.543+0000 INFO  This instance is ServerId{c5bef57f} (c5bef57f-7a9b-47da-bcf8-cdae4b5456c3)
+2024-07-13 07:16:51.312+0000 INFO  ======== Neo4j 5.21.2 ========
+2024-07-13 07:16:54.504+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage-data/
+2024-07-13 07:16:54.559+0000 INFO  Bolt enabled on 0.0.0.0:7687.
+2024-07-13 07:16:55.307+0000 INFO  HTTP enabled on 0.0.0.0:7474.
+2024-07-13 07:16:55.308+0000 INFO  Remote interface available at http://localhost:7474/
+2024-07-13 07:16:55.312+0000 INFO  id: B4CB465DBA018414344C609E418F2940CA28011EF3CDC30873AF9232C046E7CC
+2024-07-13 07:16:55.312+0000 INFO  name: system
+2024-07-13 07:16:55.313+0000 INFO  creationDate: 2024-07-09T08:38:01.208Z
+2024-07-13 07:16:55.313+0000 INFO  Started.
+2024-07-13 07:17:17.952+0000 WARN  [bolt-1] The client is unauthorized due to authentication failure.
+2024-07-13 07:17:18.156+0000 WARN  [bolt-3] The client is unauthorized due to authentication failure.
+2024-07-13 07:19:23.910+0000 WARN  [bolt-80] Unsupported authentication token, missing key `principal`
+2024-07-13 07:19:24.079+0000 WARN  [bolt-82] Unsupported authentication token, missing key `principal`
